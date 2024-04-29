@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-**ProfFabricioMerlin/ProfFabricioMerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BOAS VINDAS AO MEU PERFIL** 💙
 
-Here are some ideas to get you started:
+Meu nome é Fabricio Merlin.
+Sou professor na rede pública do estado de São Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Atualmente estou estudando na Alura.
+Estou me desenvolvendo em projetos no Scratch, na liguagem de Pyton e na linguagem de JavaScript.
+Utilizo esse espaço para compartilhamento de projetos desenvolvidos.
+
+**Você pode entrar em contato comigo!** 📫
+
+fabriciomerlin@live.com 
+@merlinfabricio_
+
+![] (https://media1.tenor.com/m/AkILqGsdIFoAAAAC/pokemon-ash.gif)
