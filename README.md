@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**BOAS VINDOS AO MEU PERFIL** 💙
+**BOAS VINDAS AO MEU PERFIL** 💙
 
 Meu nome é Fabricio Merlin.
 Sou professor na rede pública do estado de São Paulo.
