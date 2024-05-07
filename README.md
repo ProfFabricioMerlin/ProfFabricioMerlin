@@ -3,7 +3,7 @@
 **BOAS VINDAS AO MEU PERFIL** 💙
 
 Meu nome é Fabricio Merlin.
-Sou professor na rede pública do estado de São Paulo.
+Sou professor na rede pública do Estado de São Paulo.
 
 - Atualmente estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo em projetos no Scratch, na liguagem de Pyton e na linguagem de JavaScript.
